@@ -1,5 +1,7 @@
 using System.Diagnostics;
 
+namespace DriverFinderProject;
+
 class Program
 {
     static void Main(string[] args)

@@ -1,3 +1,4 @@
+namespace DriverFinderProject;
 public class PartialSortFinder : IDriverFinder
 {
     public string AlgorithmName => "Partial Sort";

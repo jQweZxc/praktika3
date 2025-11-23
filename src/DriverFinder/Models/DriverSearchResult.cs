@@ -1,3 +1,4 @@
+namespace DriverFinderProject;
 public class DriverSearchResult
 {
     public Driver Driver { get; set; }

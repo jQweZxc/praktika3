@@ -1,3 +1,4 @@
+namespace DriverFinderProject;
 public class Driver
 {
     public int Id { get; set; }

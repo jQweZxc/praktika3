@@ -1,3 +1,4 @@
+namespace DriverFinderProject;
 public interface IDriverFinder
 {
     string AlgorithmName { get; }

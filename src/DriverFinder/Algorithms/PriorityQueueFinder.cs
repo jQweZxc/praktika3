@@ -1,3 +1,4 @@
+namespace DriverFinderProject;
 public class PriorityQueueFinder : IDriverFinder
 {
     public string AlgorithmName => "PriorityQueue";
