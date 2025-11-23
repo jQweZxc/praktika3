@@ -1,0 +1,63 @@
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet
+**/[Pp]ackages/*
+*.nupkg
+.nuget/
+nuget.exe
+**/packages/build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.log
+
+# Backup files
+*.backup
+*.tmp
+*.TMP
+
+# Local configuration files
+appsettings.Development.json
+appsettings.local.json
+*.local.json
+
+# Ignore .NET Core project specific files
+project.fragment.lock.json
+*.runtimeconfig.json
